@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hansolo2r
 
-<!--
-**Hansolo2r/Hansolo2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate studying Automation (AI track) at Central South University.
 
-Here are some ideas to get you started:
+My main interests are robotics, machine learning, and reliable robot systems. I use this account to document projects that I can reproduce and explain clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+- Robot fault and anomaly detection in MuJoCo
+- STM32-based sensor acquisition and event logging
+- Classical machine-learning implementations and experiments
+
+My robot fault-detection research is ongoing. Its code, data, and paper drafts remain private while the work is unpublished.
+
+## Tools
+
+Python, C/C++, MATLAB, MuJoCo, Git, and Linux. I am currently learning ROS 2.
+
+## Repository policy
+
+Public repositories contain work that can be shared and reproduced responsibly. Unpublished research and confidential internship material stay private.
