@@ -1,21 +1,17 @@
-# Hansolo2r
+# Hansolo
 
 I'm an undergraduate studying Automation (AI track) at Central South University.
 
-My main interests are robotics, machine learning, and reliable robot systems. I use this account to document projects that I can reproduce and explain clearly.
+I am interested in robotics, machine learning, robot security, and industrial automation. This profile documents projects and experiments that I can share responsibly.
 
 ## Current work
 
-- Robot fault and anomaly detection in MuJoCo
-- STM32-based sensor acquisition and event logging
-- Classical machine-learning implementations and experiments
+- MuJoCo simulation study of FDIA detection for robotic systems (ongoing)
+- STM32 temperature and motion event logger (in progress)
+- Machine-learning coursework and classical algorithm experiments
 
-My robot fault-detection research is ongoing. Its code, data, and paper drafts remain private while the work is unpublished.
-
-## Tools
-
-Python, C/C++, MATLAB, MuJoCo, Git, and Linux. I am currently learning ROS 2.
+The FDIA research project has not been published. Its code, data, results, and paper drafts remain private.
 
 ## Repository policy
 
-Public repositories contain work that can be shared and reproduced responsibly. Unpublished research and confidential internship material stay private.
+Public repositories contain only work that can be shared without research or company confidentiality concerns. Project descriptions will distinguish completed results from ongoing work.
